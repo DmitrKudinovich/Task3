@@ -1,0 +1,6 @@
+E:\Soft\IT Transition\task3\kod\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Soft\IT Transition\task3\kod\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Soft\IT Transition\task3\kod\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Soft\IT Transition\task3\kod\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Soft\IT Transition\task3\kod\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Soft\IT Transition\task3\kod\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
